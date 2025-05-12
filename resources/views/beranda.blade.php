@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Halaman Beranda</title>
+    <title>Beranda</title>
 </head>
 <body>
-    <h1>Halo, ini halaman beranda!</h1>
-    <p>Laravel-nya sudah berhasil diubah dari tampilan default 🎉</p>
+    <h1>Ini dari Controller</h1>
+    <p>Laravel sekarang pakai controller, lebih rapi 💪</p>
 </body>
 </html>
